@@ -1,0 +1,30 @@
+@import 'tailwindcss';
+
+@font-face {
+  font-family: font1;
+  src: url(/Fonts/Chomsky.woff2);
+}
+@font-face {
+  font-family: font2;
+  src: url(/Fonts/F37Stout-BlackCompressed.ttf);
+}
+@font-face {
+  font-family: font3;
+  src: url(/Fonts/InstrumentSerif-Regular.ttf);
+}
+@font-face {
+  font-family: font4;
+  src: url(/Fonts/Mayonice.ttf);
+}
+@font-face {
+  font-family: font5;
+  src: url(/Fonts/NeueMontrealBold.woff2);
+}
+@font-face {
+  font-family: font6;
+  src: url(/Fonts/NordMedium.woff2);
+}
+@font-face {
+  font-family: font7;
+  src: url(/Fonts/NordRegular.woff2);
+}
