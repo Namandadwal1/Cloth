@@ -28,3 +28,12 @@
   font-family: font7;
   src: url(/Fonts/NordRegular.woff2);
 }
+
+body{
+  background-color:  rgb(24 24 27);
+  color: white;
+}
+
+::-webkit-scrollbar{
+  display: none;
+}
